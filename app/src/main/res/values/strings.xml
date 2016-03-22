@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZarplataRu</string>
+    <string name="error_title">Ошибка</string>
+    <string name="connection_error">Ошибка соединения, подключитесь к сети.</string>
+    <string name="salary">Зарплата: %s</string>
+    <string name="done">Ok</string>
+
+</resources>
